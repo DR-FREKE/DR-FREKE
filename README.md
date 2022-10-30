@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DR-FREKE
+- 👋 Hi, I’m Solomon Ndifereke but can be called @DR-FREKE...the "DR" is a reminder that I must have a PHD
 - 👀 I’m interested in Engineering, Devops and building Intelligent Systems
 - 🌱 I’m currently learning Devops, Data Science and AR Technologies
 - 💞️ I’m looking to collaborate on Open Source Projects
